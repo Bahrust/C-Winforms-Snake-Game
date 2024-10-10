@@ -1,0 +1,34 @@
+  Snake.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Snake, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Snake.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 score : Public
+    Int32 fieldWidth : Public
+    Int32 fieldHeight : Public
+    Int32 moveCounter : Public
+    Int32 applePosX : Public
+    System.Windows.Forms.PictureBox apple : Public
+    Int32 applePosY : Public
+  Methods:
+    RandomNum(Int32, Int32): PrivateScope, Public, HideBySig
+    AddRestartButton(): PrivateScope, Public, HideBySig
+    MoveSnake(): PrivateScope, Public, HideBySig
+    WasAppleEaten(): PrivateScope, Public, HideBySig
+    SetNewApplePos(): PrivateScope, Public, HideBySig
+    Start(): PrivateScope, Public, HideBySig

@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\MyForm.h(145,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\MyForm.h(219,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Snake.vcxproj -> C:\!All\Projects\C++\Snake_winforms\Snake\x64\Debug\Snake.exe

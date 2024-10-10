@@ -1,0 +1,5 @@
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\Snake.vcxproj.AssemblyReference.cache
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\Snake.MyForm.resources
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\Snake.MyForm.aa-DJ.resources
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\Snake.MyForm.aa.resources
+C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\Snake.vcxproj.GenerateResource.cache

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\!All\Projects\C++\Snake_winforms\Snake\x64\Debug\Snake.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls>
+    <SatelliteDll>
+      <FullPath>C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\aa-DJ\Snake.resources.dll</FullPath>
+    </SatelliteDll>
+    <SatelliteDll>
+      <FullPath>C:\!All\Projects\C++\Snake_winforms\Snake\Snake\x64\Debug\aa\Snake.resources.dll</FullPath>
+    </SatelliteDll>
+  </SatelliteDlls>
+  <NonRecipeFileRefs />
+</Project>
